@@ -111,6 +111,8 @@ body {
     height: auto;
     vertical-align: middle;
     margin: 5px;
+    border-width: 1px;
+    border-color: Black;
   }
   
   /* Skills */
